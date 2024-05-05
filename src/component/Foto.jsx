@@ -1,12 +1,12 @@
 import {View, Text} from 'react-native';
 import React from 'react';
 
-const Beranda = () => {
+const Foto = () => {
   return (
     <View>
-      <Text>Beranda</Text>
+      <Text>Foto</Text>
     </View>
   );
 };
 
-export default Beranda;
+export default Foto;

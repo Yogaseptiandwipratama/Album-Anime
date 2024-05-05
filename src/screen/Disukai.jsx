@@ -1,12 +1,12 @@
 import {View, Text} from 'react-native';
 import React from 'react';
 
-const Beranda = () => {
+const Disukai = () => {
   return (
     <View>
-      <Text>Beranda</Text>
+      <Text>Disukai</Text>
     </View>
   );
 };
 
-export default Beranda;
+export default Disukai;
